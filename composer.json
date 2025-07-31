@@ -3,6 +3,7 @@
     "description": "Phosphor Icons icon set for Filament",
     "type": "library",
     "license": "MIT",
+    "homepage": "https://github.com/filament-icons/phosphor",
     "authors": [
         {
             "name": "Dennis Koch",
@@ -24,5 +25,8 @@
                 "FilamentIcons\\Phosphor\\PhosphorServiceProvider"
             ]
         }
+    },
+    "support": {
+        "source": "https://github.com/filament-icons/phosphor"
     }
 }
