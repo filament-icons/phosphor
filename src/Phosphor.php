@@ -2,7 +2,10 @@
 
 namespace FilamentIcons\Phosphor;
 
-enum Phosphor: string
+use Filament\Support\Contracts\ScalableIcon;
+use Filament\Support\Enums\IconSize;
+
+enum Phosphor: string implements ScalableIcon
 {
     case Acorn = 'acorn';
     case AddressBookTabs = 'address-book-tabs';
@@ -1516,4 +1519,10 @@ enum Phosphor: string
     case Yarn = 'yarn';
     case YinYang = 'yin-yang';
     case YoutubeLogo = 'youtube-logo';
+
+
+    public function getIconForSize(IconSize $size): string
+    {
+        return "phosphor-{$this->value}";
+    }
 }
