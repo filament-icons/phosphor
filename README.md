@@ -19,4 +19,4 @@ This package provides 9072 icons from Phosphor Icons.
 ## Note
 
 This package is automatically generated and updated daily.
-Last updated: 2025-08-01 08:25:48
+Last updated: 2025-08-01 08:26:09

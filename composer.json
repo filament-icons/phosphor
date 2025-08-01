@@ -1,7 +1,7 @@
 {
     "name": "filament-icons/phosphor",
     "description": "Phosphor Icons icon set for Filament",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "type": "library",
     "license": "MIT",
     "homepage": "https://github.com/filament-icons/phosphor",
