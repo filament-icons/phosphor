@@ -1,6 +1,6 @@
 # phosphor
 
-Phosphor Icons - Bold icon set for Filament
+Phosphor Icons icon set for Filament
 
 ## Installation
 
@@ -10,7 +10,7 @@ composer require filament-icons/phosphor
 
 ## Usage
 
-This package provides 9072 icons from Phosphor Icons - Bold.
+This package provides 9072 icons from Phosphor Icons.
 
 ```blade
 <x-icon-phosphor-bold-home />
@@ -19,4 +19,4 @@ This package provides 9072 icons from Phosphor Icons - Bold.
 ## Note
 
 This package is automatically generated and updated daily.
-Last updated: 2025-08-01 08:19:00
+Last updated: 2025-08-01 08:25:48
